@@ -15,16 +15,9 @@
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartikd2003&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikd2003&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 - GitHub: [https://github.com/kartikd2003](https://github.com/kartikd2003)
-- LinkedIn: [Add your LinkedIn link here](https://www.linkedin.com/in/kartik-deshmukh-a513b6261/)
+- LinkedIn: [https://www.linkedin.com/in/kartik-deshmukh-a513b6261/](https://www.linkedin.com/in/kartik-deshmukh-a513b6261/)
 - Email: [kartikdeshmukh2003@gmail.com](kartikdeshmukh2003@gmail.com)
 ---
 
