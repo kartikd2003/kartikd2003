@@ -23,9 +23,10 @@
 ---
 
 ### ☕ Support Me
-<a href="https://www.buymeacoffee.com/kartikd2003" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" />
-</a>
+<a href="https://github.com/sponsors/kartikd2003"><img src="https://img.shields.io/badge/GitHub-Sponsor-brightgreen?logo=github" height="45" /></a>
+<a href="https://www.buymeacoffee.com/kartikd2003"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" /></a>
+<a href="https://razorpay.me/@kartikd2003"><img src="https://img.shields.io/badge/Razorpay-Support-blue?logo=razorpay" height="45" /></a>
+
 
 ---
 
