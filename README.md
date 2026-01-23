@@ -30,7 +30,7 @@
   <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTdHSIGzDL7fc9XXlsHrMfryqugHNIR61ioklJqxr5LcphEBNR-" height="45" />
 </a>
 <a href="https://github.com/sponsors/kartikd2003">
-  <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR8yl9beDZI9r-QQGKFS9t-062rAmposVDTaVGl3lifH5T1GyvZ" height="45" />
+  <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQISQS1GHk3xuO1m2klJpnbhjeICWYNtIbXBKVzVY091ZpDE3qH" height="45" />
 </a>
 
 <a href="https://www.buymeacoffee.com/kartikd2003">
