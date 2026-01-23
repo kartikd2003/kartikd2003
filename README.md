@@ -10,7 +10,7 @@
 - 🌱 Currently learning **Data Structures, Algorithms, and Backend Development**
 - 🔭 Interested in **Software Development, Web Technologies, and APIs**
 - 🎯 Goal: To become a skilled **Software Engineer**
-- 📚 Strong foundation in **C++, Python, and Web Development**
+- 📚 Strong foundation in **Java, Python, C++ and Web Development**
 - 🤝 Open to **internships, projects, and collaboration**
 
 ---
