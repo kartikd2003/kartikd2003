@@ -32,7 +32,7 @@
 </a>
 
 <a href="https://razorpay.me/@kartikd2003">
-  <img src="https://img.shields.io/badge/Razorpay-Support-0C2451?logo=razorpay&logoColor=white" height="45" />
+  <img src="https://cdn.iconscout.com/icon/free/png-512/free-razorpay-logo-icon-svg-download-png-1399875.png?f=webp&w=256" height="45" />
 </a>
 
 ---
