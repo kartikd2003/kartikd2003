@@ -24,7 +24,7 @@
 
 ### ☕ Support Me
 <a href="https://github.com/sponsors/kartikd2003">
-  <img src="https://img.shields.io/badge/GitHub-Sponsor-30363d?logo=github&logoColor=white" height="45" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtshySXW0Qha409zbvLzyUtxEyNRrhOsvNSBNrr1RckJVo2j-P" height="45" />
 </a>
 
 <a href="https://www.buymeacoffee.com/kartikd2003">
