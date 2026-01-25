@@ -25,7 +25,7 @@
 
 ### ☕ Support Me
 <a href="https://github.com/sponsors/kartikd2003">
-  <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQISQS1GHk3xuO1m2klJpnbhjeICWYNtIbXBKVzVY091ZpDE3qH" height="45" />
+  <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQISQS1GHk3xuO1m2klJpnbhjeICWYNtIbXBKVzVY091ZpDE3qH" height="45" border-radius:15px/>
 </a>
 <a href="https://www.buymeacoffee.com/kartikd2003">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" />
