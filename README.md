@@ -25,13 +25,16 @@
 
 ### ☕ Support Me
 <a href="https://github.com/sponsors/kartikd2003">
-  <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQISQS1GHk3xuO1m2klJpnbhjeICWYNtIbXBKVzVY091ZpDE3qH" height="45" style="border-radius: 15px"/>
+  <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQISQS1GHk3xuO1m2klJpnbhjeICWYNtIbXBKVzVY091ZpDE3qH" height="45" style="border-radius: 20px"
+/>
 </a>
 <a href="https://www.buymeacoffee.com/kartikd2003">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" />
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" style="border-radius: 20px"
+/>
 </a>
 <a href="https://razorpay.me/@kartikd2003">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7dF5Nw5vpBW8gqDSjtXyCr3vMzWn5slCTlg&s" height="45" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7dF5Nw5vpBW8gqDSjtXyCr3vMzWn5slCTlg&s" height="45" style="border-radius: 20px"
+/>
 </a>
 
 ---
