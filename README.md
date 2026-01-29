@@ -19,6 +19,7 @@
 - LinkedIn: [https://www.linkedin.com/in/kartik-deshmukh-a513b6261/](https://www.linkedin.com/in/kartik-deshmukh-a513b6261/)
 - Email: [kartikdeshmukh2003@gmail.com](https://docs.google.com/forms/d/e/1FAIpQLScM3mpFW3OdFlXD7vWJujKlEgmgBRESzNGUz_Y1IxRiIaZ37g/viewform?usp=publish-editor)
 - Whatsapp: [+91 73890-54495](https://wa.me/917389054495)
+- Direct Contact: [Click](tel:+917389054495)
   
 ---
 
