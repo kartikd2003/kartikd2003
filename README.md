@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Kartik Deshmukh  
-https://readme-typing-svg.demolab.com/demo/?font=caligraphy&weight=100&letterSpacing=&duration=4000&pause=500&color=2563EB&vCenter=true&width=300&height=33&lines=%22Software+Engineer%22;%22Java+%26+Python+Developer%22;%22Full-Stack+Developer%22;%22Cloud+Enthusiast%22;%22IoT+Developer%22;%22Blockchain+Learner%22
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=caligraphy&weight=100&letterSpacing=&duration=1&pause=1000000&color=23CCAF&vCenter=true&width=50&height=33&lines=I+am)](https://git.io/typing-svg) [![Typing SVG](https://readme-typing-svg.demolab.com?font=caligraphy&weight=100&letterSpacing=&duration=4000&pause=500&color=2563EB&vCenter=true&width=300&height=33&lines=%22Software+Engineer%22;%22Java+%26+Python+Developer%22;%22Full-Stack+Developer%22;%22Cloud+Enthusiast%22;%22IoT+Developer%22;%22Blockchain+Learner%22)](https://git.io/typing-svg)
+
 🎓 Computer Science Engineering Student  
 💻 Aspiring Software Engineer | Python & Web Developer  
 🚀 Passionate about building real-world projects and learning new technologies  
