@@ -7,7 +7,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🌱 Currently learning **Data Structures, Algorithms, and Backend Development**
+- 🌱 Currently learning **Data Structures, Algorithms, and Backend Development**<img src="neelkanth.png" width="120" align="right"/>
 - 🔭 Interested in **Software Development, Web Technologies, and APIs**
 - 🎯 Goal: To become a skilled **Software Engineer**
 - 📚 Strong foundation in **Java, Python, C++ and Web Development**
