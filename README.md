@@ -17,13 +17,15 @@
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [https://www.linkedin.com/in/kartik-deshmukh-a513b6261/](https://www.linkedin.com/in/kartik-deshmukh-a513b6261/)
+- Portfolio: [portfolio-kartikd2003](https://portfolio-kartikd2003.vercel.app/)
 - Email: [kartikdeshmukh2003@gmail.com](https://docs.google.com/forms/d/e/1FAIpQLScM3mpFW3OdFlXD7vWJujKlEgmgBRESzNGUz_Y1IxRiIaZ37g/viewform?usp=publish-editor)
+- LinkedIn: [kartikd2003](https://www.linkedin.com/in/kartik-deshmukh-a513b6261/)
+- X: [@karti_2003__](https://x.com/kartik_2003__)
 - Whatsapp/Call: [+91 73890-54495](https://wa.me/917389054495)
   
 ---
 
-### ☕ Support Me
+## ☕ Support Me
 <a href="https://github.com/sponsors/kartikd2003">
   <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQISQS1GHk3xuO1m2klJpnbhjeICWYNtIbXBKVzVY091ZpDE3qH" height="45" style="border-radius: 20px"
 /></a>
