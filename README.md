@@ -24,7 +24,7 @@
 - Whatsapp/Call: [+91 73890-54495](https://wa.me/917389054495)
   
 ---
-
+<!--
 ## ☕ Support Me
 <a href="https://github.com/sponsors/kartikd2003">
   <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQISQS1GHk3xuO1m2klJpnbhjeICWYNtIbXBKVzVY091ZpDE3qH" height="45" style="border-radius: 20px"
@@ -37,5 +37,5 @@
 /></a>
 
 ---
-
+-->
 ⭐ *If you like my work, consider giving a star to my repositories!*  
